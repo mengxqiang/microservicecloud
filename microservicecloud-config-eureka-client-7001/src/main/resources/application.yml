@@ -1,4 +1,4 @@
 spring:
   application:
-    name: microservicecloud-config-eureka-client22
+    name: microservicecloud-config-eureka-client
 
